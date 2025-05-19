@@ -1,1 +1,1 @@
-# bt_aitrading This is metrying to navigate my Bachelor Thesis
+# bt_aitrading This is a collection of the various codes used for statistical testing, model building and simulation 
